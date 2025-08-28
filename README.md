@@ -1,1 +1,1 @@
-A ChatGPT-generated 3-month project to learn Test Autiomation on Python.
+A ChatGPT-generated 3-month project to learn Test Automation on Python.
